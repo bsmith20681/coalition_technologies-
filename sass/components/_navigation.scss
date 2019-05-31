@@ -1,0 +1,23 @@
+.navigation {
+  height: 109px;
+  background-color: $grey;
+}
+
+.navbar {
+  color: $black;
+  .nav-link {
+    color: $black;
+    &:hover {
+      font-weight: bold;
+      border-bottom: 4px solid $orange;
+    }
+  }
+}
+
+.navbar-brand {
+  font-size: 48px;
+  color:$black;
+  &:hover {
+    color:$black;
+  }
+}

@@ -1,0 +1,24 @@
+//COLORS
+$white: #fff;
+$black: #000;
+
+$orange: #ff6200;
+$dark-orange: #be3600;
+
+$grey: #ededed;
+$light-grey: #929292;
+$dark-grey: #878787;
+
+
+
+//COLOR CLASSES
+.text-orange{
+  color: $orange;
+}
+
+.text-dark_orange {
+  color: $dark-orange;
+}
+
+//FONTS
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');

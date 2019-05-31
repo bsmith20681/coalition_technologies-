@@ -1,0 +1,14 @@
+.breadcrumb {
+  background-color: white;
+  margin: 45px 0 40px 0;
+  font-size: 14px;
+
+  &-item a {
+    color: $light-grey;
+  }
+
+  &-item .active {
+    color: black;
+    font-weight: bold;
+  }
+}
